@@ -4,10 +4,10 @@
 When in the Course of human Events it becomes necessary for one People to dissolve the Political Bands which have connected them with another, and to assume among the Powers of the Earth the separate & equal Station to which the Laws of Nature and of Nature’s God entitle them, a decent Respect to the Opinions of Mankind requires that they should declare the causes which impel them to the Separation.
 
 We hold these truths to be self-evident:
-that all men are created equal,
+that all people are created equal,
 that they are endowed by their Creator with certain unalienable Rights,
 that among these are Life, Liberty and the pursuit of Happiness,
-that to secure these rights, governments are instituted among men, deriving their just powers from the consent of the governed,
+that to secure these rights, governments are instituted among people, deriving their just powers from the consent of the governed,
 that whenever any form of government becomes destructive of these ends, it is the right of the people to alter or to abolish it, & to institute new government, laying its foundation on such principles & organizing its powers in such form, as to them shall seem most likely to effect their Safety and Happiness.
 Prudence, indeed, will dictate that Governments long established should not be changed for light and transient causes,
 and accordingly all experience hath shewn that mankind are more disposed to suffer, while evils are sufferable than to right themselves by abolishing the forms to which they are accustomed.
@@ -74,7 +74,7 @@ In every stage of these Oppressions We have Petitioned for Redress in the most h
 
 He has waged cruel war against human nature itself, violating its most sacred rights of life and liberty in the persons of a distant people who never offended him, captivating & carrying them into slavery in another hemisphere, or to incur miserable death in their transportation thither.
 This piratical warfare, the opprobium of INFIDEL Powers, is the warfare of the CHRISTIAN king of Great Britain.
-Determined to keep open a market where MEN should be bought & sold, he has prostituted his negative for suppressing every legislative attempt to prohibit or to restrain this execrable commerce. And that this assemblage of horrors might want no fact of distinguished die, he is now exciting those very people to rise in arms among us, and to purchase that liberty of which he has deprived them, by murdering the people on whom he also obtruded them: thus paying off former crimes committed against the LIBERTIES of one people, with crimes which he urges them to commit against the LIVES of another.
+Determined to keep open a market where PEOPLE should be bought & sold, he has prostituted his negative for suppressing every legislative attempt to prohibit or to restrain this execrable commerce. And that this assemblage of horrors might want no fact of distinguished die, he is now exciting those very people to rise in arms among us, and to purchase that liberty of which he has deprived them, by murdering the people on whom he also obtruded them: thus paying off former crimes committed against the LIBERTIES of one people, with crimes which he urges them to commit against the LIVES of another.
 
 Nor have we been wanting in attentions to our British brethren.
 We have warned them from time to time of attempts by their legislature to extend an unwarrantable jurisdiction over us.
